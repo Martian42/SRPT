@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6f4d445.css",
+    "main.js": "/static/js/main.3057deaa.js",
+    "static/js/787.f42e1baf.chunk.js": "/static/js/787.f42e1baf.chunk.js",
+    "static/media/Timber Casette on Glulam.jpg": "/static/media/Timber Casette on Glulam.6ee45cfb54c5c29bbc85.jpg",
+    "static/media/CLT Flat Slab.jpg": "/static/media/CLT Flat Slab.787c9079febc37a90f35.jpg",
+    "static/media/CLT on Glulam Frame.jpg": "/static/media/CLT on Glulam Frame.3edfe1dd8653a68f7633.jpg",
+    "static/media/LVL Rib deck on Glulam.jpg": "/static/media/LVL Rib deck on Glulam.c5cbab175cd6c5f932d5.jpg",
+    "static/media/CLt on Glulam Band Beams.jpg": "/static/media/CLt on Glulam Band Beams.d1cae35b48a229bdc3e1.jpg",
+    "static/media/Composite metal deck on Steel frame.jpg": "/static/media/Composite metal deck on Steel frame.45aabfb5e76992b29de8.jpg",
+    "static/media/Precast planks on steel frame.jpg": "/static/media/Precast planks on steel frame.909efdcbb1ee141a2df2.jpg",
+    "static/media/Concrete flat slab.jpg": "/static/media/Concrete flat slab.21bdb942ad6476bd01ec.jpg",
+    "static/media/configImage.png": "/static/media/configImage.8cc55e79a8521f18a2c2.png",
+    "index.html": "/index.html",
+    "main.e6f4d445.css.map": "/static/css/main.e6f4d445.css.map",
+    "main.3057deaa.js.map": "/static/js/main.3057deaa.js.map",
+    "787.f42e1baf.chunk.js.map": "/static/js/787.f42e1baf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f4d445.css",
+    "static/js/main.3057deaa.js"
+  ]
+}
